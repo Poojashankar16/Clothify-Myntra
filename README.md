@@ -38,8 +38,7 @@ Welcome to Clothify Myntra, your online destination for all things fashionable! 
 
 ## How to Use
 1. **Visit the Website** 🌐
-   - Go to [Clothify Myntra](https://clothify-myntra.herokuapp.com/).
-
+  
 2. **Browse Products** 🛍️
    - Click on a product to view details.
 
